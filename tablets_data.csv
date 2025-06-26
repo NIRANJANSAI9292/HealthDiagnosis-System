@@ -1,0 +1,25 @@
+Disease,  Tablets
+Flu,  Oseltamivir, Paracetamol, Antihistamines (Cetirizine)
+Fever,	Paracetamol, Ibuprofen, Acetaminophen
+Cough,	Dextromethorphan, Ambroxol, Bromhexine
+Fatigue,	Multivitamins, Iron Supplements, Caffeine Tablets
+Headache,	Paracetamol, Aspirin, Ibuprofen
+COVID-19,	Favipiravir, Remdesivir, Paracetamol
+Malaria,	Chloroquine, Artemether-Lumefantrine, Hydroxychloroquine
+Typhoid,	Azithromycin, Ciprofloxacin, Cefixime
+Dengue,	Paracetamol, Papaya Leaf Extract (for platelet boost)
+Pneumonia,	Azithromycin, Amoxicillin, Cefuroxime
+Asthma,	Salbutamol, Montelukast, Budesonide
+Bronchitis,	Doxycycline, Azithromycin, Cough Suppressants
+Chickenpox,	Acyclovir, Paracetamol, Antihistamines
+Measles,	Vitamin A, Paracetamol, Antihistamines
+Tuberculosis,	Rifampicin, Isoniazid, Ethambutol
+Diabetes,	Metformin, Glimepiride, Sitagliptin
+Hypertension,	Amlodipine, Lisinopril, Metoprolol
+Heart Disease,	Aspirin, Clopidogrel, Atorvastatin
+Kidney Disease,	Calcium Acetate, Erythropoietin, Iron Supplements
+Liver Disease,	Ursodeoxycholic Acid, Silymarin, Lactulose
+Migraine,	Sumatriptan, Rizatriptan, Naproxen
+Sinusitis,	Amoxicillin, Nasal Decongestants, Antihistamines
+Arthritis,	Diclofenac, Naproxen, Celecoxib
+Anemia,	Ferrous Sulfate, Vitamin B12, Folic Acid

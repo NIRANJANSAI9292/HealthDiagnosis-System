@@ -1,0 +1,21 @@
+Disease,Risk Factors,Lifestyle Causes,Environmental Causes
+Flu,Weak immune system, cold weather,Lack of sleep, stress, poor diet,Airborne viruses, close contact with infected
+COVID-19,Weakened immunity, poor hygiene,Crowded places, lack of handwashing,Airborne virus, poor ventilation
+Malaria,Mosquito bites, stagnant water,Traveling to high-risk areas,Presence of infected mosquitoes
+Typhoid,Contaminated food/water,Poor sanitation, consuming unclean food/water,Poor water hygiene, lack of sanitation
+Dengue,Mosquito bites, humid climate,Open water storage, lack of protective clothing,Standing water breeding mosquitoes
+Pneumonia,Weakened immune system,Smoking, poor nutrition, lack of exercise,Cold/damp climate, air pollution
+Asthma,Allergens, respiratory issues,Smoking, obesity, stress,Air pollution, pollen, dust
+Bronchitis,Smoking, weak immune system,Exposure to smoke, vaping, cold air,Air pollution, industrial fumes
+Chickenpox,Weakened immunity,Close contact with infected people,Airborne virus, lack of vaccination
+Measles,Poor immunity, lack of vaccine,Close contact with infected individuals,Airborne virus, poor vaccination rates
+Tuberculosis,Weakened immune system,Malnutrition, lack of vaccination,Overcrowded places, poor ventilation
+Diabetes,Obesity, poor diet, sedentary lifestyle,High sugar intake, lack of exercise,Polluted water, urban stress
+Hypertension,High salt intake, stress,Sedentary lifestyle, alcohol, smoking,Noise pollution, air pollution
+Heart Disease,High cholesterol, obesity,Poor diet, smoking, lack of exercise,Air pollution, work stress
+Kidney Disease,High blood pressure, diabetes,Low water intake, high sodium diet,Contaminated water, exposure to toxins
+Liver Disease,Alcohol, obesity, hepatitis,Excessive alcohol, poor diet,Exposure to toxins, viral infections (Hep B, C)
+Migraine,Stress, poor sleep, dehydration,Irregular sleep patterns, caffeine intake,Bright lights, loud noise, air pollution
+Sinusitis,Allergies, colds, humidity,Smoking, dehydration, poor air quality,Dust, mold, pollen, air pollution
+Arthritis,Aging, obesity, poor posture,Lack of exercise, joint overuse, smoking,Cold weather, pollution, sedentary work
+Anemia,Iron deficiency, poor diet,Lack of iron-rich foods, eating disorders,Poor soil nutrition, water pollution
