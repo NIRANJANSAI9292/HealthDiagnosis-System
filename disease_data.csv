@@ -1,0 +1,20 @@
+Flu,fever,cough,fatigue,headache
+COVID-19,fever,cough,loss of taste,fatigue,shortness of breath
+Malaria,fever,chills,sweating,muscle pain,headache
+Typhoid,fever,weakness,abdominal pain,constipation
+Dengue,fever,headache,joint pain,skin rash,bleeding
+Pneumonia,fever,cough,shortness of breath,chest pain,weakness
+Asthma,cough,wheezing,shortness of breath,chest tightness
+Bronchitis,cough,chest discomfort,fatigue,mild fever
+Chickenpox,fever,itchy rash,blisters,fatigue
+Measles,fever,cough,runny nose,skin rash,red eyes
+Tuberculosis,cough,fever,night sweats,weight loss
+Diabetes,excessive thirst,frequent urination,fatigue,blurry vision
+Hypertension,headache,dizziness,shortness of breath,nosebleeds
+Heart Disease,chest pain,shortness of breath,fatigue,swelling in legs
+Kidney Disease,fatigue,swelling in legs,nausea,loss of appetite
+Liver Disease,jaundice,abdominal pain,nausea,itchy skin
+Migraine,headache,nausea,vomiting,sensitivity to light
+Sinusitis,headache,facial pain,stuffy nose,cough
+Arthritis,joint pain,stiffness,swelling,limited movement
+Anemia,fatigue,weakness,pale skin,shortness of breath
